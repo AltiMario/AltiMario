@@ -14,6 +14,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AltiMario&count_private=true&show_icons=true&include_all_commits=true&hide=prs&theme=vue&hide_border=true" alt="AltiMario's GiHub Stats" />
 </a>
 <a href="https://github.com/Altimario">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltiMario&layout=default&show_icons=true&hide=javascript,css,HTML,Shell,nix,Makefile,Dockerfile&theme=vue&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltiMario&layout=default&show_icons=true&hide=css,HTML,Shell,nix,Makefile,Dockerfile&theme=vue&hide_border=true" />
 </a>
 </p>
