@@ -7,5 +7,5 @@
 </p>
 
 
-|![Activities](https://github-readme-stats.vercel.app/api?username=AltiMario&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true) | ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AltiMario&hide_border=true) |
+|![Activities](https://github-readme-stats.vercel.app/api?username=AltiMario&show_icons=true&theme=buefy&hide_border=true) | ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AltiMario&hide_border=true) |
 | ------------- | ------------- |
