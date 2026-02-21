@@ -1,10 +1,3 @@
-# README
-
-# Project Title
-
-## Description
-
-This is the README for the project.
-
-|![Activities](https://github-readme-stats.vercel.app/api?username=AltiMario&show_icons=true&theme=buefy&hide_border=true) | ![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AltiMario&hide_border=true) |
-| ------------- | ------------- |
+| GitHub Summary | Most Used Languages |
+| --- | --- |
+| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AltiMario&theme=vue) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AltiMario&theme=vue) |
