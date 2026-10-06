@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
    <a href="http://twitter.com/altimario">
     <img src="https://img.shields.io/twitter/follow/altimario?label=Twitter&logo=twitter&style=for-the-badge" />
   </a><a href="https://www.linkedin.com/in/altimario">
@@ -6,5 +6,6 @@
 	</a>
 </p>
 
-| ![Activities](https://github-readme-stats.vercel.app/api?username=AltiMario&show_icons=true&theme=buefy&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AltiMario&layout=compact&theme=buefy&hide_border=true) |
+| GitHub Summary | Most Used Languages |
 | --- | --- |
+| ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AltiMario&theme=vue) | ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AltiMario&theme=vue) |
